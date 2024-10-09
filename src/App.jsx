@@ -4,7 +4,8 @@ import { FirstPage } from "../pages/FirstPage";
 const App = ({}) => {
   return (
     <div className="App">
-      <FirstPage />
+      {/* <FirstPage /> */}
+      <h1>Hello World</h1>
     </div>
   );
 };
